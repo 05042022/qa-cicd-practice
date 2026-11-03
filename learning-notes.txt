@@ -1,0 +1,1 @@
+My goal: automate API tests and run them in a CI/CD pipeline.
